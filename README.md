@@ -1,0 +1,3 @@
+El proyecto parte de la idea de generar una herramienta o espacio para la auto ayuda.
+Hacer uso de recursos, referencias, material publico, etc. En conjunto con una serie de agentes con distintos propositos, enfoques y trasfondos. Que permita interactuar con llms con un contexto previo, poder tomar apuntes, retomar conversaciones, hacer resumenes, lluvias de ideas, consejos, etc, lo que resulte util para cada quien en la medida que toma forma.
+Quiero hacer este proyecto todo lo open source que me lo permita y monetizarlo con el tiempo de una forma amigable para poder financiar su crecimiento, aportes de la comunidad que pudieran surgir y respaldo de profesionales.
